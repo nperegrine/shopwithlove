@@ -1,4 +1,4 @@
-> shopwithlove - Simple shopping api showcasing abandoned product data management
+> shopwithlove - Simple shop api showcasing abandoned product data management
 
 ## About
 This repository contains a simple Laravel API (Backend) application called "shopwithlove".
