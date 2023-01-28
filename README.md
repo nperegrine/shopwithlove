@@ -1,4 +1,4 @@
-> Sublite - Simple subscriber management application
+> shopwithlove - Simple shopping platform showcasing abandoned product data management
 
 ## About
 This repository contains a simple Laravel API (Backend) application called "shopwithlove".
