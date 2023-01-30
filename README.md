@@ -3,7 +3,7 @@
 ## About
 This repository contains a simple Laravel API (Backend) application called "shopwithlove".
 
-The shopwithlove application demonstrates how to manage abandoned products and users for a shopping platform using standard laravel conventions. 
+The shopwithlove application demonstrates how to manage abandoned products and users for a shopping platform using standard laravel conventions and DDD. 
 The application manages the following resources:
 - Products
 - Carts
